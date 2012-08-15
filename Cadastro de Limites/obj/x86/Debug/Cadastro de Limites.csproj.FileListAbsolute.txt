@@ -1,0 +1,14 @@
+C:\Users\Leandrojpagno\SkyDrive\Documentos\ceasbpti\DesenvolvimentoMetodosNumericos\Cadastro de Limites\Cadastro de Limites\obj\x86\Debug\Interop.PISDK.dll
+C:\Users\Leandrojpagno\SkyDrive\Documentos\ceasbpti\DesenvolvimentoMetodosNumericos\Cadastro de Limites\Cadastro de Limites\obj\x86\Debug\Interop.PISDKCommon.dll
+C:\Users\Leandrojpagno\SkyDrive\Documentos\ceasbpti\DesenvolvimentoMetodosNumericos\Cadastro de Limites\Cadastro de Limites\obj\x86\Debug\Interop.PITimeServer.dll
+C:\Users\Leandrojpagno\SkyDrive\Documentos\ceasbpti\DesenvolvimentoMetodosNumericos\Cadastro de Limites\Cadastro de Limites\obj\x86\Debug\Cadastro de Limites.csproj.ResolveComReference.cache
+C:\Users\Leandrojpagno\SkyDrive\Documentos\ceasbpti\DesenvolvimentoMetodosNumericos\Cadastro de Limites\Cadastro de Limites\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Leandrojpagno\SkyDrive\Documentos\ceasbpti\DesenvolvimentoMetodosNumericos\Cadastro de Limites\Cadastro de Limites\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\Leandrojpagno\SkyDrive\Documentos\ceasbpti\DesenvolvimentoMetodosNumericos\Cadastro de Limites\Cadastro de Limites\obj\x86\Debug\Cadastro_de_Limites.Form1.resources
+C:\Users\Leandrojpagno\SkyDrive\Documentos\ceasbpti\DesenvolvimentoMetodosNumericos\Cadastro de Limites\Cadastro de Limites\obj\x86\Debug\Cadastro_de_Limites.Properties.Resources.resources
+C:\Users\Leandrojpagno\SkyDrive\Documentos\ceasbpti\DesenvolvimentoMetodosNumericos\Cadastro de Limites\Cadastro de Limites\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Leandrojpagno\SkyDrive\Documentos\ceasbpti\DesenvolvimentoMetodosNumericos\Cadastro de Limites\Cadastro de Limites\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Leandrojpagno\SkyDrive\Documentos\ceasbpti\DesenvolvimentoMetodosNumericos\Cadastro de Limites\Cadastro de Limites\bin\Debug\Cadastro de Limites.exe
+C:\Users\Leandrojpagno\SkyDrive\Documentos\ceasbpti\DesenvolvimentoMetodosNumericos\Cadastro de Limites\Cadastro de Limites\bin\Debug\Cadastro de Limites.pdb
+C:\Users\Leandrojpagno\SkyDrive\Documentos\ceasbpti\DesenvolvimentoMetodosNumericos\Cadastro de Limites\Cadastro de Limites\obj\x86\Debug\Cadastro de Limites.exe
+C:\Users\Leandrojpagno\SkyDrive\Documentos\ceasbpti\DesenvolvimentoMetodosNumericos\Cadastro de Limites\Cadastro de Limites\obj\x86\Debug\Cadastro de Limites.pdb
